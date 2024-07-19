@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ngoc Nhan</h1>
 
 <p>
-I have worked as Java developer role for 4 years.  I want to become a Software Architecture in the future. But this way is so not easy, I lack of necessary knowledge and architecture. So I have improved my skills, both technique and English.
- 
+I have worked as Java developer role for 4 years.  I want to become a Software Architecture in the future. But this way is so not easy, I lack of necessary knowledge and architecture. So I have to improve my skills, both technique and English.
 </p>
 
 <h2 align="center">Java Developer</h2>
